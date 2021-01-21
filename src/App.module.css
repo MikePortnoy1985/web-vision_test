@@ -1,0 +1,12 @@
+.app {
+   text-align: center;
+   height: 100vh;
+   width: 90%;
+   padding: 3% 0;
+}
+
+@media screen and (max-height: 720px) {
+   .app {
+      height: 120vh;
+   }
+}
